@@ -11,6 +11,7 @@ dist-ssr/
 .env.*
 !.env.example
 .agents/*
+instruction.txt
 
 # Vercel (lien projet local — le déploiement se fait côté Vercel/GitHub)
 .vercel
