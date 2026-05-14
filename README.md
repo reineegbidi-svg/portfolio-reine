@@ -1,46 +1,47 @@
-# LuCodes – Portfolio React
+# Portfolio — GBEDENOU FIFI GRACE
 
-React + Vite remake of the LuCodes portfolio with a senior-level art direction. The application exposes the same contenus que l’ancienne version PHP mais avec une expérience plus moderne, fluide et prête pour le déploiement sur Vercel.
+Site vitrine personnel (mode clair, animations légères) pour présenter le parcours, les compétences, les projets et un formulaire de contact.  
+Stack : **React 19**, **Vite**, **Framer Motion**, **Lucide React** (icônes).
 
-## ⚙️ Installation
+**Profil GitHub :** [github.com/fifigrace](https://github.com/fifigrace)
+
+---
+
+## Installation
 
 ```bash
 npm install
 npm run dev
 ```
 
-## 📂 Contenu à importer
+| Script        | Action                          |
+|---------------|---------------------------------|
+| `npm run dev` | Serveur de dev (Vite)           |
+| `npm run build` | Build de production → `dist/` |
+| `npm run preview` | Prévisualiser le build      |
+| `npm run lint`  | ESLint                          |
 
-Placer les éléments suivants avant de lancer le build/preview :
+---
 
-- `public/assets/KONOU.pdf` – le CV à télécharger depuis la page d’accueil (issu de l’ancien dossier `assets/includes`).
-- Images des projets dans `public/images/` (fichiers présents dans l’ancien dossier `assets/img/masonry-portfolio`). Les noms attendus sont :
-  - `Luc-Photoroom.png`
-  - `tickets-app.jpg`
-  - `doctagne.png`
-  - `campus-cantine.png`
-  - `ecopower-frame.jpg`
-  - `meteo-app.png`
-  - `quote-gen.png`
-  - `cms-web.png`
-  - `js-formation.png`
-  - `zip-url.png`
-  - `ucao-uut.png`
-  - `hardware-web.png`
-  - `hardware-desktop.png`
-  - `biblio.png`
-  - `chatbot.png`
+## Fichiers à placer dans `public/`
 
-## 🚀 Déploiement Vercel
+Avant un build ou un déploiement, vérifier que ces fichiers existent (chemins utilisés dans `src/content.js`) :
 
-1. `npm run build`
-2. Connecter le repository à Vercel.
-3. Config par défaut : aucune variable d’environnement nécessaire.
+| Fichier | Rôle |
+|---------|------|
+| `public/images/photo-fifi.jpeg` | Photo du hero |
+| `public/assets/CV-GBEDENOU.jpeg` | CV téléchargeable depuis le hero |
 
-Le dossier `dist/` généré par Vite est automatiquement pris en charge par Vercel.
+Les visuels des **cartes projets** peuvent rester des URLs externes (ex. placeholders) ou être remplacés par tes propres images dans `content.js`.
 
-### Page QR pour affichage sur le campus
+---
 
-- Accès : `/qr`
-- Contenu : poster imprimable avec le QR code (`public/images/frame.jpg`), instructions et contacts.
-- Astuce : ouvrir la page, cliquer sur « Imprimer cette page » pour générer un PDF prêt à partager.
+## Personnalisation
+
+- **Textes, liens, projets, formation, contact** : `src/content.js`
+- **Mise en page & styles** : `src/App.jsx`, `src/App.css`, `src/index.css`
+- **Formulaire** : envoi via [FormSubmit](https://formsubmit.co) (email configuré dans `content.js` → `contact.formAction`). Premier envoi : activer l’adresse côté FormSubmit si demandé.
+
+Variables d’environnement : **non requises** pour un déploiement statique classique.
+
+---
