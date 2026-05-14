@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Thème global clair — couleurs explicites (évite tout conflit avec des tokens Tailwind) */
+:root {
+  color-scheme: light;
+  --theme-bg: #ffffff;
+  --theme-bg-subtle: #fafafa;
+  --theme-text: #09090b;
+  --theme-text-muted: #52525b;
+  --theme-border: #e4e4e7;
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: var(--theme-bg);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+body {
+  min-height: 100dvh;
+  background-color: var(--theme-bg);
+  color: var(--theme-text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background: #e4e4e7;
+  color: #18181b;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

@@ -1,7 +1,11 @@
 # Dépendances
 node_modules/
 
-# Build Vite / production
+# Next.js
+.next/
+out/
+
+# Build legacy
 dist/
 dist-ssr/
 *.local
