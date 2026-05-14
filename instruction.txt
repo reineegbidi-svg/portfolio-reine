@@ -1,0 +1,371 @@
+Crée un portfolio personnel exceptionnel, ultra premium, moderne et professionnel pour :
+
+GBEDENOU FIFI GRACE
+
+Le rendu final doit ressembler à un produit conçu par un designer frontend senior travaillant chez Apple, Linear, Stripe, Vercel ou Framer.
+
+IMPORTANT :
+Le projet actuel est un portfolio déjà cloné.
+Tu dois :
+- transformer totalement l’identité visuelle
+- modifier fortement le design
+- éviter toute ressemblance avec l’ancien portfolio
+- changer complètement la structure visuelle
+- utiliser une nouvelle direction artistique
+- passer le site en MODE CLAIR premium
+- garder uniquement la stack technique existante si utile
+- remplacer toutes les anciennes données par celles du CV ci-dessous
+
+ACTIVE LES MODES :
+- design-taste-frontend
+- high-end-visual-design
+- redesign-existing-projects
+- full-output-enforcement
+- image-to-code (uniquement si nécessaire)
+
+STACK TECHNIQUE :
+- Next.js dernière version
+- React
+- Tailwind CSS
+- Framer Motion
+- Lucide React Icons
+
+DIRECTION ARTISTIQUE :
+Créer un design clair ultra moderne avec :
+- fond blanc cassé / gris très clair
+- cartes glassmorphism lumineuses
+- accents rouges élégants et subtils
+- ombres douces premium
+- dégradés lumineux sophistiqués
+- interface minimaliste haut de gamme
+- animations fluides style Linear/Vercel
+- effet “premium SaaS”
+- espacements très aérés
+- design très propre et raffiné
+- sections modernes avec composition asymétrique
+- UI élégante et professionnelle
+
+ÉVITER :
+- design générique
+- sections trop classiques
+- gros blocs lourds
+- couleurs agressives
+- animations excessives
+- look template gratuit
+
+OBJECTIF :
+Le résultat doit donner l’impression :
+- d’un template premium vendu à plus de 100$
+- d’un portfolio frontend haut niveau
+- d’un vrai produit moderne et professionnel
+
+==================================================
+INFORMATIONS À UTILISER
+==================================================
+
+NOM :
+GBEDENOU FIFI GRACE
+
+TITRE / HERO TEXT :
+Étudiante en Licence 3 Mathématiques–Informatique
+Data Analyst & Développeuse Web/Mobile
+
+LOCALISATION :
+Lomé – Kélegougan, Togo
+
+EMAIL :
+gbedenoufifigrace@gmail.com
+
+TÉLÉPHONE :
+MV : 79 57 18 68
+TG : 71 23 14 44
+
+LANGUES :
+- Français : courant
+- Anglais : intermédiaire
+
+LOISIRS :
+- Lecture
+- Voyage
+- Musique
+- Cuisine
+
+==================================================
+SECTION HERO
+==================================================
+
+Créer une hero section plein écran ultra premium.
+
+Contenu :
+- badge animé “Disponible pour un stage / emploi”
+- grand titre moderne :
+  “GBEDENOU FIFI GRACE”
+- sous-titre :
+  “Data Analyst & Développeuse d’applications web & mobiles”
+- courte phrase professionnelle :
+  “Passionnée par l’analyse de données, les statistiques et le développement d’applications modernes.”
+
+CTA :
+- Voir mes projets
+- Me contacter
+
+Ajouter :
+- effets lumineux subtils
+- blobs flous modernes
+- animation d’apparition élégante
+- background premium
+- effet souris léger
+- micro interactions premium
+
+IMPORTANT :
+Le hero doit immédiatement impressionner visuellement.
+
+==================================================
+SECTION À PROPOS
+==================================================
+
+Créer une section “À propos” moderne avec composition premium.
+
+Texte :
+
+“Je suis Gbedenou Fifi Grace, étudiante en Licence 3 Mathématiques–Informatique à l’UCAO-UUT de Sanguera.
+
+Rigoureuse, analytique et motivée, je suis spécialisée dans l’analyse et l’interprétation de données statistiques ainsi que dans le développement d’applications web et mobiles.
+
+Je recherche actuellement un stage ou une opportunité professionnelle afin de mettre mes compétences en pratique et contribuer efficacement à des projets innovants.”
+
+Ajouter :
+- cartes premium
+- statistiques animées
+- effets glassmorphism
+- apparition au scroll
+- layout asymétrique moderne
+
+==================================================
+SECTION COMPÉTENCES
+==================================================
+
+Créer des cartes premium interactives.
+
+COMPÉTENCES TECHNIQUES :
+
+Langages :
+- Java
+- JavaScript
+- PHP
+- HTML
+- Python
+- Dart
+- R
+
+Développement :
+- Développement Web
+- Développement Mobile Flutter
+- Firebase
+- MySQL
+
+Analyse de données :
+- Analyse de données
+- Statistiques descriptives
+- Statistiques inférentielles
+- Visualisation de données
+
+Outils :
+- Flutter
+- Firebase
+- Figma
+- NetBeans
+- Git/GitHub
+- Tailwind CSS
+- React
+
+Créer :
+- icônes modernes
+- hover animations
+- glow effects subtils
+- cartes interactives
+- grille responsive premium
+
+==================================================
+SECTION PROJETS
+==================================================
+
+Créer une section projets ultra moderne.
+
+PROJETS À AFFICHER :
+
+1. Application de gestion de quincaillerie
+Technologies :
+- Java
+- MySQL
+- NetBeans
+
+2. Application mobile de gestion de tickets
+Technologies :
+- Flutter
+- Dart
+- Firebase
+- Figma
+
+3. Création de sites web
+Technologies :
+- PHP
+- HTML
+
+4. Analyse de données statistiques
+Fonctionnalités :
+- analyse
+- interprétation
+- visualisation des données
+
+5. Application web de gestion de boutique
+Technologies :
+- HTML
+- PHP
+- MySQL
+
+Chaque carte projet doit inclure :
+- image placeholder moderne
+- overlay premium
+- badges technologies
+- animations 3D légères
+- hover interactions
+- boutons :
+  - Voir le projet
+  - GitHub
+- effets lumineux subtils
+- animations Framer Motion
+
+IMPORTANT :
+Les cartes projets doivent être très premium.
+
+==================================================
+SECTION FORMATION / PARCOURS
+==================================================
+
+Créer une timeline moderne élégante.
+
+FORMATION :
+
+Licence Mathématiques–Informatique
+UCAO-UUT, Sanguera
+L3 — en cours 2025-2026
+
+Baccalauréat
+Notre-Dame de la Trinité, Hédranawoé
+2021–2023
+
+BEPC
+CPL Le Nouveau Monde, Kégué
+2016–2020
+
+CEPD
+École Baptiste Biblique de Kélegougan
+2008–2015
+
+Ajouter :
+- animations timeline
+- transitions fluides
+- icônes modernes
+- design vertical premium
+
+==================================================
+SECTION CONTACT
+==================================================
+
+Créer une section contact très élégante.
+
+Contenu :
+- formulaire moderne
+- carte de contact premium
+- email
+- téléphone
+- localisation
+- boutons sociaux :
+  - GitHub
+  - LinkedIn
+  - Email
+
+Ajouter :
+- animations focus
+- glassmorphism
+- glow subtil
+- transitions modernes
+
+==================================================
+FOOTER
+==================================================
+
+Créer un footer minimaliste premium.
+
+Contenu :
+- “Conçu & développé par Gbedenou Fifi Grace”
+- année dynamique
+- bouton retour en haut
+- animations subtiles
+
+==================================================
+EXIGENCES UI/UX AVANCÉES
+==================================================
+
+Ajouter :
+- scroll ultra fluide
+- animations au scroll
+- reveal animations
+- effets suivant la souris
+- transitions entre sections
+- loaders élégants
+- effets de profondeur
+- bordures dégradées
+- états interactifs premium
+- animations sophistiquées mais légères
+
+==================================================
+RESPONSIVE DESIGN
+==================================================
+
+Le portfolio doit être :
+- parfaitement responsive mobile
+- optimisé tablette
+- ultra propre sur desktop
+- fluide sur petits écrans
+
+==================================================
+ARCHITECTURE & CODE
+==================================================
+
+Créer :
+- architecture propre
+- composants réutilisables
+- structure professionnelle
+- code prêt pour production
+- SEO friendly
+- accessibilité correcte
+- performances optimisées
+
+Utiliser :
+- composants bien séparés
+- animations Framer Motion propres
+- Tailwind bien structuré
+- sections dynamiques si utile
+
+==================================================
+STYLE FINAL ATTENDU
+==================================================
+
+Le résultat final doit ressembler à :
+- un vrai portfolio premium moderne
+- un template SaaS haut de gamme
+- une expérience frontend professionnelle
+- une interface conçue par un senior frontend designer
+
+Le design doit être :
+- élégant
+- lumineux
+- sophistiqué
+- moderne
+- mémorable
+- premium
+- minimaliste
+- fluide
+- professionnel

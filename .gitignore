@@ -1,0 +1,50 @@
+# Dépendances
+node_modules/
+
+# Build Vite / production
+dist/
+dist-ssr/
+*.local
+
+# Variables d’environnement (ne jamais committer de secrets)
+.env
+.env.*
+!.env.example
+.agents/*
+
+# Vercel (lien projet local — le déploiement se fait côté Vercel/GitHub)
+.vercel
+
+# Logs & debug
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Tests & couverture
+coverage/
+.nyc_output/
+
+# Cache outils
+.cache/
+.parcel-cache/
+.vite/
+*.tsbuildinfo
+.eslintcache
+
+# Éditeurs & OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+*.swp
+*.swo
+*~
+
+# Optionnel : fichiers lourds / brouillons locaux (décommente si besoin)
+# *.pdf
+# public/images/raw/
